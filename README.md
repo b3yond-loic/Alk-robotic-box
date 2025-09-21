@@ -38,4 +38,4 @@ Contact : [cerqueira.loic88@gmail.com]
 ## 📌 Notes
 Ce projet fait partie de **l’univers B3yond Alkemia**, une startup regroupant plusieurs projets innovants :  
 - DroneBuddy (drone assistant touristique)  
-- Alkemia Messenger (messagerie avec tokens pour commerce et freelances)
+- Alk Messenger (messagerie avec tokens pour commerce et freelances)
