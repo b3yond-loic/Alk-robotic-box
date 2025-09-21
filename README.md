@@ -35,8 +35,6 @@ L’objectif est de créer une interface type "boîte à musique" où l’utilis
 Pour l’instant, le projet est en développement solo, mais toute **contribution ou idée est bienvenue**.  
 Contact : [cerqueira.loic88@gmail.com]
 
----
-
 ## 📌 Notes
 Ce projet fait partie de **l’univers Alkemia**, une startup regroupant plusieurs projets innovants :  
 - DroneBuddy (drone assistant touristique)  
