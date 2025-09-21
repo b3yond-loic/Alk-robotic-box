@@ -1,10 +1,10 @@
 # Alk-robotic-box
 a smooth and user-friendly application for controlling multiple robotic devices.
 
-# Alkemia Robotic Box
+# Alk Robotic Box
 
 ## 🚀 Vision du projet
-**Alkemia Robotic Box** est une application innovante qui permet de contrôler des appareils robotiques de manière simple et ludique.  
+**B3yond Alkemia Robotic Box** est une application innovante qui permet de contrôler des appareils robotiques de manière simple et ludique.  
 L’objectif est de créer une interface type "boîte à musique" où l’utilisateur peut composer des séquences d’actions pour piloter ses robots ou appareils connectés.
 
 ## 🎯 Objectifs
@@ -36,6 +36,6 @@ Pour l’instant, le projet est en développement solo, mais toute **contributio
 Contact : [cerqueira.loic88@gmail.com]
 
 ## 📌 Notes
-Ce projet fait partie de **l’univers Alkemia**, une startup regroupant plusieurs projets innovants :  
+Ce projet fait partie de **l’univers B3yond Alkemia**, une startup regroupant plusieurs projets innovants :  
 - DroneBuddy (drone assistant touristique)  
 - Alkemia Messenger (messagerie avec tokens pour commerce et freelances)
